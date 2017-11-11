@@ -1,0 +1,117 @@
+[
+  {
+    "company": "Codecademy",
+    "title": "JavaScript Updates, Amazon Alexa, and who IBM hires",
+    "message": "Everyone from full-stack engineers to SaaS marketers are learning JavaScript. The reason why is simple – 93% of all websites use this language*. To keep you on the cutting edge, we've updated our JavaScript courses so that you can learn the latest, most impactful skills – for free.",
+    "link": "https://www.codecademy.com/learn/introduction-to-javascript",
+    "tags": "code,javascript,free,course"
+  }, {
+    "company": "Oneplus",
+    "title": "3 Reasons to Attend #ANewView in Person",
+    "message": "At a New View, you’ll be able to launch the OnePlus 5T hand in hand with us and experience our new product before anyone else. There’s a lot of reasons to attend the event, but first, we’d like to explain why this is a ticketed event. We wish we could open up our event to all OnePlus users. But, we can’t afford to rent out a stadium yet, we’re not ACDC. By getting a ticket you’re telling us you’re ready to unveil the OnePlus 5T in person.",
+    "link": "https://oneplus.net/se/",
+    "tags": "event"
+  }, {
+    "company": "Näringslivsansvarig TLTH",
+    "title": "Hackathon - På liv och död med SOS Alarm",
+    "message": "För första gången i SOS Alarms historia anordnas ett hackathon för fem av Sveriges största tekniska högskolor. Den kommer hållas under ett drygt dygn mellan den 25-26 november på Scandic Victoria Tower i Kista, Stockholm.",
+    "link": "https://hackathon-sos.confetti.events/",
+    "tags": "event,free"
+  }, {
+    "company": "Ingenjörskarriär",
+    "title": "Därför blir du snabbare utbränd än b-kollegorna / 5 frågor toppar din anställningsintervju",
+    "message": "Är du typ A eller typ B? Här berättar beteendevetaren och karriärcoachen om skillnaden. Nina Jansdotter tillhör själv bråttom-typen. Gruppen har driv och är ambitiösa, men riskerar att bränna ut sig.",
+    "link": "https://www.nyteknik.se/ingenjorskarriar/darfor-blir-din-personlighetstyp-snabbare-utbrand-an-b-kollegorna-6881343",
+    "tags": "career,student"
+  }, {
+    "company": "Skyscanner",
+    "title": "Flygerbjudanden från Köpenhamn från 193 kr",
+    "message": "Vill du flyga iväg? Vi har hittat dessa erbjudanden från Köpenhamn åt dig:",
+    "link": "https://www.skyscanner.se/transport/flights/CPH/KUN/cheap-flights.html",
+    "tags": "flights,discount"
+  }, {
+    "company": "Studentkortet",
+    "title": "30 dagar gratis abonnemang hos Nextory",
+    "message": "Höj mysfaktorn i höst med 30 dagar gratis abonnemang hos Nextory. En ljudbok under skogspromenaden eller en e-bok framför brasan - den perfekta pausen från plugget. Ta del av tiotusentals e-böcker och ljudböcker, direkt i surfplattan eller mobilen.",
+    "link": "https://www.studentkortet.se/",
+    "tags": "discount,student"
+  }, {
+    "company": "TV4 Play",
+    "title": "Prova C More gratis i 2 veckor",
+    "message": "Vill du inspireras med nytt innehåll? Prova C More gratis i ‌2 veckor och se dina favoritprogram från ‌TV4 utan reklam. Det finns dessutom massor av filmer, serier och barninnehåll. In och kolla nu – det är ingen bindningstid och du kan avsluta när du vill.",
+    "link": "https://www.cmore.se/utforska/tv4",
+    "tags": "movies,series,trial"
+  }, {
+    "company": "Spotify",
+    "title": "Ett särskilt tack från Kygo",
+    "message": "Kygo ger dig tillgång till förköp av biljetter till hans kommande turné! Skaffa dina före alla andra!",
+    "link": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4",
+    "tags": "music,event"
+  }, {
+    "company": "Ryanair",
+    "title": "Scarily good deals! Fly from €9.99",
+    "message": "Ryanair are cooking up some great offers for you to sink your teeth into this Halloween. Visit one of our spook-tacular destinations across Europe from as a little as €9.99.",
+    "link": "https://www.ryanair.com/gb/en/",
+    "tags": "flights,discount"
+  }, {
+    "company": "Naringsliv",
+    "title": "Summer internship at Spotify",
+    "message": "Hey, here’s your chance to be a full time Spotify employee, starting with a summer internship! All intern roles has a full time role with the team in mind, which means that the chances of you getting a full time role with Spotify are great if you do an awesome job. This isn’t just any internship! Our paid internship program will last for 12 weeks this summer starting in the middle of June, and you’ll get a chance to gain in-depth knowledge of what it’s like to be a Spotify employee. Apply here before December 3rd!",
+    "link": "https://www.spotifyjobs.com/students/",
+    "tags": "career,internship"
+  }, {
+    "company": "HUNGRIG.se",
+    "title": "2 anledningar till att njuta av din lön",
+    "message": "Kanske med en burgare eller två från populära Surf Shack? Beställ med hemkörning och få din beställning levererad hem inom 45 min",
+    "link": "https://hungrig.se/surf-shack-lund/lund/22220",
+    "tags": "food,food delivery"
+  }, {
+    "company": "Spotify",
+    "title": "Ett särskilt tack från Lauv",
+    "message": "Lauv ger dig tillgång till förköp av biljetter till hans kommande turné!",
+    "link": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv",
+    "tags": "music,event"
+  }, {
+    "company": "Codecademy",
+    "title": "Free Web Design Courses: Upgraded",
+    "message": "Effective websites need to do more than just get the job done – they need to be well designed. We've been hard at work updating our curriculum so you can learn the best, latest skills – for free – with us.",
+    "link": "https://www.codecademy.com/catalog/subject/web-development",
+    "tags": "code,design,course,free"
+  }, {
+    "company": "Studentkortet",
+    "title": "Hur långt orkar du scrolla?",
+    "message": "Idag får du 22 GB surf, 60 samtal och 600 mess för 125 kr/mån, hela vägen till februari! Därifrån betalar du 250 kr/mån. Hos Vimla får du också en engångspott på 20 GB, bara för att. Och din osurfad surf sparas så klart, det är sen gammalt. Bindningstid? Nää (usch).",
+    "link": "https://vimla.se/",
+    "tags": "discount,student"
+  }, {
+    "company": "Studentkortet",
+    "title": "Undersökning",
+    "message": "Vad tycker du om gaming, politik och media? Dela din åsikt i Studentkortets stora undersökning så kan du vinna en iPhone 8.",
+    "link": "https://www.studentkortet.se/",
+    "tags": "discount,student"
+  }, {
+    "company": "TV4 Play",
+    "title": "Hösten är hemma",
+    "message": "Hösten är här och vi har fyllt på med massa nya säsonger och härliga program. Här kommer några tips!",
+    "link": "https://www.tv4play.se/",
+    "tags": "movies,series"
+  }, {
+    "company": "Uber",
+    "title": "Let’s get you moving",
+    "message": "Uber is the easiest way to get wherever you want to be. Let us know if there’s anything we can do to help you get on the road.",
+    "link": "https://get.uber.com/open_app",
+    "tags": "transport"
+  }, {
+    "company": "Studentkortet",
+    "title": "Studentpris på nya OneBlade från Philips",
+    "message": "40% rabatt på nya OneBlade - och fri frakt!",
+    "link": "https://www.studentkortet.se/",
+    "tags": "student,discount"
+  }, {
+    "company": "Ingenjörskarriär",
+    "title": "Toppa ditt cv med expertens bästa tips / 5 sätt att hantera jobbiga kollegor",
+    "message": "Vi skriver för långt, tråkigt – och är inte nog säljande. Här avslöjar karriärrådgivaren knepen som gör att du blir kallad till intervju.",
+    "link": "https://www.nyteknik.se/ingenjorskarriar/cv-experten-sa-blir-du-alltid-kallad-till-intervju-6875963",
+    "tags": "career,student,cv"
+  }
+]

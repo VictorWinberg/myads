@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col s12">
+        <h1>My Ads</h1>
+      </div>
+      <div class="col s12">
+        <h5>What ads are you interested in today?</h5>
+      </div>
+      <form action="#" class="col s6">
+        <div class="input-field">
+          <input id="search" class="ion-android-close" type="text">
+          <label for="search">Search:</label>
+          <button class="btn btn-large submit">Search</button>
+          <a class="btn-flat btn-large modal-trigger" href="#modal">Subscribe</a>
+        </div>
+      </form>
+      <div class="col s12"><br/></div>
+      <div class="col s12">
+        <div class="ads"></div>
+      </div>
+      <div id="modal" class="modal bottom-sheet">
+        <div class="modal-content"></div>
+        <div class="modal-footer">
+          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat left teal">Ok</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script type="text/javascript" src="script.js"></script>
+
+</html>
