@@ -5,7 +5,7 @@ $(function() {
   })
 
   $('.modal').modal();
-  $(".submit").click(() => search())
+  $('form').submit((e) => { search(); return false })
 
   var search = (str) => {
     var search = $('#search').val().toLowerCase()
