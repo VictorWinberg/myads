@@ -5,9 +5,9 @@ $(function() {
   })
 
   $('.modal').modal();
-  $('form').submit((e) => { search(); return false })
+  $('form').submit(() => { search(); return false })
 
-  var search = (str) => {
+  var search = () => {
     var search = $('#search').val().toLowerCase()
     $('.modal-content').html(`
       <h4>You are now subscribed to <span class="teal-text">${search}</span></h4>
