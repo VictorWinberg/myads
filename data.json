@@ -113,5 +113,29 @@
     "message": "Vi skriver för långt, tråkigt – och är inte nog säljande. Här avslöjar karriärrådgivaren knepen som gör att du blir kallad till intervju.",
     "link": "https://www.nyteknik.se/ingenjorskarriar/cv-experten-sa-blir-du-alltid-kallad-till-intervju-6875963",
     "tags": "career,student,cv"
+  }, {
+    "company": "Netcompany",
+    "title": "Give your career a boost at Netcompany",
+    "message": "Give your career a boost at Netcompany and be part of developing the IT solutions of the future. Receive lots of responsibility from day 1, and contribute to the most exciting and complex projects of the industry by creating innovative solutions together with the country's most talented employees.",
+    "link": "https://www.netcompany.com/en/nc-career",
+    "tags": "career"
+  }, {
+    "company": "Spotify",
+    "title": "Changing the world, one string at a time.",
+    "message": "Want to work with new technology and new infrastructure? Like the idea of shaping how music fans listen? Love cracking complex challenges? Look no further.",
+    "link": "https://www.spotifyjobs.com/job-category/engineering-it/",
+    "tags": "career"
+  }, {
+    "company": "Bisnode",
+    "title": "Shape your future at Bisnode",
+    "message": "At Bisnode, we enable smart decisions. We do this through interpreting and analyzing large quantities of data that can be converted into insights for our clients. These insights make them better equipped to make commercial and strategic decisions. That is our offer to partners and clients.",
+    "link": "https://www.bisnodegroup.com/about-bisnode/about-us/careers-at-bisnode/",
+    "tags": "career"
+  }, {
+    "company": "ICA",
+    "title": "Butikserbjudanden",
+    "message": "Här hittar du veckans ICA-erbjudanden och Kortpris för dig med ICA-kort. Är du inloggad ser du även dina personliga och butiksunika erbjudanden i de butiker där du handlar oftast.",
+    "link": "https://www.ica.se/erbjudanden/butikserbjudanden/",
+    "tags": "discount"
   }
 ]
